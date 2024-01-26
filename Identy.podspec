@@ -8,7 +8,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Identy"
-  spec.version      = "5.9.0"
+  spec.version      = "5.9.0.1"
   spec.summary      = "Libreria del proveedor Identy para captura Dactilar.."
 
   # This description is used to generate tags and improve search results.
@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
 
   spec.requires_arc = true
 
-  spec.vendored_frameworks = "Identy.framework"
+  spec.vendored_frameworks = "Identy.xcframework"
 
   #s.pod_target_xcconfig = {
   #  'ONLY_ACTIVE_ARCH' => 'YES'
