@@ -8,7 +8,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Identy"
-  spec.version      = "5.9.0.1"
+  spec.version      = "5.9.0.2"
   spec.summary      = "Libreria del proveedor Identy para captura Dactilar.."
 
   # This description is used to generate tags and improve search results.
