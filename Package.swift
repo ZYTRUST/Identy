@@ -12,8 +12,9 @@ let package = Package(
     products: [
         .library(name: "Identy", targets: ["Identy"])
     ],
-    dependencies: [
-    ],
+    dependencies: [        
+    //.package(url: "https://github.com/ZYTRUST/Identy.git", from: "5.9.0")
+],
     targets: [
  .binaryTarget(
             name: "Identy",

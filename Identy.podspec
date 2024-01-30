@@ -7,7 +7,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Identy'
-  s.version          = '5.9.0.3'
+  s.version          = '5.9.2'
   s.summary          = 'Libreria proveedor Identy'
 
   s.description      = <<-DESC
